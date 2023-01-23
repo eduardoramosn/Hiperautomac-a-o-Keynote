@@ -1,6 +1,6 @@
 # Keynote  - Hiperautomação
 
-<h1><span style="color:#D15213"> O que é Hiperautomação? </span></h1>
+##  O que é Hiperautomação? 
 
  Hiperautomação é uma abordagem para automatizar processos empresariais que combina várias tecnologias, como:
 
@@ -14,7 +14,7 @@ Ela é importante para as empresas porque permite aumentar a eficiência, reduzi
 
 Também permite às empresas se adaptar rapidamente às mudanças do mercado e melhorar a satisfação dos clientes.
 
-<h1><span style="color:blue"> Como tudo começou e onde queremos chegar?</span></h1>
+##  Como tudo começou e onde queremos chegar?
 
 Começamos em 2019 com  automação tradicional usando Blue Prism que se concentra em automatizar tarefas específicas para automatizar um Fluxo de Trabalho.
 Exemplos :
@@ -61,7 +61,7 @@ Hoje temos as sequintes Ferramentas Sobre nossa gestão:
 
 
 
-<h1><span style="color:blue"> Quais Benecicios temos com Hipeautomação?</span></h1>
+##  Quais Benecicios temos com Hipeautomação?
 
 A hiperautomação oferece vários benefícios para as empresas, incluindo:
 
@@ -91,7 +91,7 @@ A hiperautomação oferece vários benefícios para as empresas, incluindo:
 
 
 
-<h1><span style="color:blue"> Como aplicamos Hiperautomação hoje na Companhia? </span></h1>
+##  Como aplicamos Hiperautomação hoje na Companhia? 
 
 - A implementação da hiperautomação em uma empresa geralmente envolve os seguintes passos:
 
@@ -107,7 +107,7 @@ A hiperautomação oferece vários benefícios para as empresas, incluindo:
 
 É importante notar que a implementação da hiperautomação pode ser um processo complexo e longo, e pode envolver equipes de TI, negócios e outros especialistas para garantir o sucesso. A hiperautomação pode trazer benefícios significativos para a empresa, mas é importante planejar e gerenciar corretamente a implementação para garantir que os resultados sejam alcançados.
 
-<h1><span style="color:blue"> Quais os nossos desafios ?</span></h1>
+##  Quais os nossos desafios ?
 
 As empresas podem enfrentar vários desafios ao implementar hiperautomação, incluindo:
 
