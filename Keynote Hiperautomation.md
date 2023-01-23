@@ -42,6 +42,8 @@ Hoje temos as sequintes Ferramentas Sobre nossa gestão:
 
 > Ferramenta de ChatBot
 
+* Power Platform
+
 * ServiceNow
 
  > Ferramento de Fluxo de Trabalho
